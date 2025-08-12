@@ -1,4 +1,4 @@
- # 💫 About Me:
+ # 📢 Hi, I'm Harsha👋
 🔭 I’m currently working on a Python-based AI assistant project (JARVIS)<br>👯 I’m looking to collaborate on open-source AI and automation tools<br>🤝 I’m looking for help with Arduino integration and voice recognition improvements<br>🌱 I’m currently learning advanced Natural Language Processing (NLP)<br>💬 Ask me about Python, AI, home automation, and PL/SQL<br>⚡ Fun fact: I can write code and explain it using cool metaphors!
 
 
