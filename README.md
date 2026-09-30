@@ -93,13 +93,17 @@ I'm looking to contribute to and collaborate on **open-source AI and automation 
 
 💬 Ask me about: **Python · Generative AI · RAG · Oracle PL/SQL · home automation**
 
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=harshavardhan779&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshavardhan779&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>
+  <img src="https://streak-stats.demolab.com?user=harshavardhan779&theme=transparent&hide_border=true" alt="Streak stats"/>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/followers/harshavardhan779?style=flat&logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/harshavardhan779?style=flat&logo=github" alt="Stars"/>
+</p>
 ---
 
 <p align="center"><sub>Last updated: 2026</sub></p>
